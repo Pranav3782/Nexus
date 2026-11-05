@@ -2,6 +2,9 @@
 
 A polished, motion-led website for an independent digital studio. Built with React, Vite, Tailwind CSS, and Framer Motion.
 
+- Live site: https://nexus-agency-pranav.netlify.app
+- Repository: https://github.com/Pranav3782/Nexus
+
 ## Tech Stack
 
 - React 19
